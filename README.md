@@ -2,5 +2,5 @@
 
 ## Integrantes: 
 - Valeria Alvarez
-- Santiago Tobit
+- Santiago Tobit Gomez
 - Jeronimo Correa
