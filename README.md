@@ -6,6 +6,14 @@
 - Jeronimo Correa
 
 
+# Ejercicio 2 Efecto Grupal
+
+
+https://github.com/user-attachments/assets/9ef99c70-9af1-48aa-84c4-326de63b3db6
+
+
+
+-------------------------
 # Ejercicio 1 Slash
 
 ## VALERIA:
