@@ -23,6 +23,11 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 
 ## Shader 4: Erosión
 ### Captura Árbol de nodos
+![image](https://github.com/user-attachments/assets/10735c95-22f9-4257-bb5d-0f9fe73f4860)
+
+
+
+https://github.com/user-attachments/assets/b0df7498-75de-4c50-b23f-55d46c58d9a1
 
 
 
