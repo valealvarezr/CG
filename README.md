@@ -18,7 +18,13 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 
 ## Shader 2: Máscara Radial
 ### Captura Árbol de nodos
+![image](https://github.com/user-attachments/assets/2cbee76d-129e-4736-b6e7-3b788ed31c1c)
+
 ### Video 
+
+
+https://github.com/user-attachments/assets/b7ab3bfe-e889-475d-8b86-b696284bb5f7
+
 
 
 ## Shader 4: Erosión
@@ -27,13 +33,10 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 
 
 
-https://github.com/user-attachments/assets/b0df7498-75de-4c50-b23f-55d46c58d9a1
-
-
-
 ### Video
 
 
+https://github.com/user-attachments/assets/b0df7498-75de-4c50-b23f-55d46c58d9a1
 
 ## Shader 5: Disolver Textura
 ### Captura Árbol de nodos
