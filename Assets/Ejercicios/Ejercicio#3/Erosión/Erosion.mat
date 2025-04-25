@@ -55,12 +55,12 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _DisolveSmoothness: 0.1
-    - _DisolveStart: 0.5
-    - _ErosionStrenght: 1
-    - _NoiseScale: 30
+    - _DisolveSmoothness: -0.04
+    - _DisolveStart: 1.16
+    - _ErosionStrenght: 1.5
+    - _NoiseScale: 28.58
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _NoiseVelocity: {r: 0.5, g: 0.5, b: 0, a: 0}
+    - _NoiseVelocity: {r: 0.4, g: 1.01, b: 0, a: 0}
   m_BuildTextureStacks: []

@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_RadialMask
-  m_Shader: {fileID: -6465566751694194690, guid: 4cc96ddf89f117c4f8ad9f5311a03eba,
+  m_Shader: {fileID: -6465566751694194690, guid: 75e179ee255b89046876e3a47cd96b59,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -50,8 +50,8 @@ Material:
     - _CastShadows: 1
     - _Cull: 2
     - _DstBlend: 0
-    - _MaskSmoothness: 0.08
-    - _MaskStart: 0.21
+    - _MaskSmoothness: 0.16
+    - _MaskStart: 0.31
     - _QueueControl: 0
     - _QueueOffset: 0
     - _SrcBlend: 1
@@ -61,7 +61,7 @@ Material:
     - _ZWriteControl: 0
     m_Colors: []
   m_BuildTextureStacks: []
---- !u!114 &4206668470599323334
+--- !u!114 &6732919253807631450
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
