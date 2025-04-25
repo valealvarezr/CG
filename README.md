@@ -37,10 +37,10 @@ Video
 
 ## Shader 8: Movimiento de Humo
 ### Jeronimo Correa H.
-Captura Árbol de nodos
+### Captura Árbol de nodos
 ![Screenshot 2025-04-25 014759](https://github.com/user-attachments/assets/dffece0f-cd90-46dc-ae65-a5e10e96722e)
 
-Video
+### Video
 
 ## Shader 9: Matcap
 ### Jeronimo Correa H.
