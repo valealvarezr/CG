@@ -20,17 +20,24 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 ### Captura Árbol de nodos
 ### Video 
 
-## Shader 3: Distorsión
-### Captura Árbol de nodos
-### Video
 
 ## Shader 4: Erosión
 ### Captura Árbol de nodos
+
+
+
 ### Video
+
+
 
 ## Shader 5: Disolver Textura
 ### Captura Árbol de nodos
+
+
 ### Video
+
+https://github.com/user-attachments/assets/7921009c-7814-4c96-833c-5a58d58296b8
+
 
 ## Shader 6: Coordenadas UV procedurales
 ### Vale Álvarez
