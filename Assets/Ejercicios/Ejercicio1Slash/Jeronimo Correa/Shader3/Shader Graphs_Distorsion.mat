@@ -7,23 +7,28 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: "Shader Graphs_Intersecci\xF3n con ruido"
-  m_Shader: {fileID: -6465566751694194690, guid: 597a1a422d4a9bf4e9cfd5a40d035a8d,
+  m_Name: Shader Graphs_Distorsion
+  m_Shader: {fileID: -6465566751694194690, guid: d8e4e21e8ddb6d94e9fd1642db594392,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
-  disabledShaderPasses: []
+  disabledShaderPasses:
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _RefractionTexture:
+        m_Texture: {fileID: 2800000, guid: 72c30589f63a355408316f3e20398280, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -38,12 +43,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Float: 0.5
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    - _Refraction_Strength: 0.09
+    m_Colors:
+    - _Color: {r: 0.38007298, g: 0.4007848, b: 0.6886792, a: 1}
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &6119514546710776347
+  m_AllowLocking: 1
+--- !u!114 &435470701743326121
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -55,4 +64,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 7
+  version: 9
