@@ -19,31 +19,34 @@ GIF
 Captura Árbol de nodos
 GIF 
 
-## Shader 4: Movimiento de Humo
+## Shader 4: Erosión
+Captura Árbol de nodos
+GIF 
+
+## Shader 5: Disolver Textura
+Captura Árbol de nodos
+GIF 
+
+## Shader 6: Coordenadas UV procedurales
 Captura Árbol de nodos
 GIF
 
-## Shader 5: Erosión
+## Shader 7: Textura en Espejo
 Captura Árbol de nodos
 GIF 
 
-## Shader 6: Disolver Textura
-Captura Árbol de nodos
-GIF 
-
-## Shader 7: Coordenadas UV procedurales
+## Shader 8: Movimiento de Humo
+# Jeronimo Correa H.
 Captura Árbol de nodos
 GIF
-
-## Shader 8: Textura en Espejo
-Captura Árbol de nodos
-GIF 
 
 ## Shader 9: Matcap
+# Jeronimo Correa H.
 Captura Árbol de nodos
 GIF 
 
 ## Shader 10: Intersección con ruido
+# Jeronimo Correa H.
 Captura Árbol de nodos
 GIF 
 
