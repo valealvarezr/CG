@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shader Graphs_Ol
+  m_Name: Int con ruido
   m_Shader: {fileID: -6465566751694194690, guid: f3734a13660b3d34c9d5bb154ff02d53,
     type: 3}
   m_Parent: {fileID: 0}
@@ -85,9 +85,13 @@ Material:
     - _SrcBlend: 1
     - _Surface: 1
     - _WorkflowMode: 1
+    - _X_noise: 0.78
+    - _X_noise_1: 4.16
+    - _Y_noise: 0
+    - _Y_noise_1: 0.5
     - _ZTest: 4
     - _ZWrite: 0
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 59.017693, g: 20.182667, b: 10.505766, a: 1}
+    - _Color: {r: 10.505766, g: 58.057724, b: 59.017693, a: 1}
   m_BuildTextureStacks: []
