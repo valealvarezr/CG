@@ -516,10 +516,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2092.999755859375,
-            "y": 313.0,
-            "width": 177.9998779296875,
-            "height": 33.999969482421878
+            "x": -2111.0,
+            "y": 376.9999694824219,
+            "width": 178.0,
+            "height": 34.00006103515625
         }
     },
     "m_Slots": [
@@ -725,7 +725,7 @@
     "m_StageCapability": 3,
     "m_BareResource": false,
     "m_Texture": {
-        "m_SerializedTexture": "{\"texture\":{\"instanceID\":0}}",
+        "m_SerializedTexture": "",
         "m_Guid": ""
     },
     "m_DefaultType": 0
@@ -1804,10 +1804,10 @@
     "m_Guid": {
         "m_GuidSerialized": "d41f07f4-e92a-407e-bc64-fb90673911bc"
     },
-    "m_Name": "NoiseVel",
+    "m_Name": "NoiseVelocity",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "NoiseVel",
-    "m_DefaultReferenceName": "_NoiseVel",
+    "m_RefNameGeneratedByDisplayName": "NoiseVelocity",
+    "m_DefaultReferenceName": "_NoiseVelocity",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -1818,8 +1818,8 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": {
-        "x": 0.5,
-        "y": 0.5,
+        "x": 1.0,
+        "y": 0.0,
         "z": 0.0,
         "w": 0.0
     }
@@ -1845,7 +1845,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.5,
+    "m_Value": 0.10000000149011612,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -3064,7 +3064,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "ecde6032c3fa49e3bfc2f9d08df57590",
     "m_Id": 0,
-    "m_DisplayName": "NoiseVel",
+    "m_DisplayName": "NoiseVelocity",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -3124,7 +3124,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 30.0,
+    "m_Value": 9.649999618530274,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
