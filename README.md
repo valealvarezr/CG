@@ -2,9 +2,53 @@
 
 ## Integrantes: 
 - Valeria Alvarez
-- Santiago Tobit Gomez
+- Tobit Santiago Gomez
 - Jeronimo Correa
+  
+# Ejercicio 3 Shaders
 
+## Shader 1: Textura de Máscara Multicanal
+Captura Árbol de nodos
+GIF 
+
+## Shader 2: Máscara Radial
+Captura Árbol de nodos
+GIF 
+
+## Shader 3: Distorsión
+Captura Árbol de nodos
+GIF 
+
+## Shader 4: Movimiento de Humo
+Captura Árbol de nodos
+GIF
+
+## Shader 5: Erosión
+Captura Árbol de nodos
+GIF 
+
+## Shader 6: Disolver Textura
+Captura Árbol de nodos
+GIF 
+
+## Shader 7: Coordenadas UV procedurales
+Captura Árbol de nodos
+GIF
+
+## Shader 8: Textura en Espejo
+Captura Árbol de nodos
+GIF 
+
+## Shader 9: Matcap
+Captura Árbol de nodos
+GIF 
+
+## Shader 10: Intersección con ruido
+Captura Árbol de nodos
+GIF 
+
+
+-------------------------
 
 # Ejercicio 2 Efecto Grupal
 
