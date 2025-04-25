@@ -8,6 +8,7 @@
 # Ejercicio 3 Shaders
 
 ## Shader 1: Textura de Máscara Multicanal
+### Vale Álvarez
 ### Captura Árbol de nodos
 ![TetraedroMascara](https://github.com/user-attachments/assets/7e6e9c56-c553-4480-9f0d-ba3f368f05c7)
 
@@ -32,6 +33,7 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 ### Video
 
 ## Shader 6: Coordenadas UV procedurales
+### Vale Álvarez
 ### Captura Árbol de nodos
 ![Polares](https://github.com/user-attachments/assets/5c2cb849-8f9f-4251-bc19-b3aac2f10509)
 
@@ -43,6 +45,7 @@ https://github.com/user-attachments/assets/68e95977-8526-406d-b709-d5c61032ac9b
 
 
 ## Shader 7: Textura en Espejo
+### Vale Álvarez
 ### Captura Árbol de nodos
 ![Tiling](https://github.com/user-attachments/assets/609f9b51-4790-4004-a099-6a494030c0ac)
 
