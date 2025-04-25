@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/68e95977-8526-406d-b709-d5c61032ac9b
 
 ### Video
 
-https://github.com/user-attachments/assets/d2ae5a45-a132-4799-b708-1b6408b6c965
+
 
 
 ## Shader 8: Movimiento de Humo
