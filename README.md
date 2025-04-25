@@ -61,6 +61,10 @@ https://github.com/user-attachments/assets/d2ae5a45-a132-4799-b708-1b6408b6c965
 
 ### Video
 
+
+https://github.com/user-attachments/assets/e4bd7eca-7aee-4d66-8b9e-2a635de92f1d
+
+
 ## Shader 9: Matcap
 ### Jeronimo Correa H.
 ### Captura Árbol de nodos
