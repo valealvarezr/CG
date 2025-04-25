@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 
 ## Shader 5: Disolver Textura
 ### Captura Árbol de nodos
+![image](https://github.com/user-attachments/assets/1a5389e8-6d7d-449d-ab25-f9ba09ad09bd)
 
 
 ### Video
