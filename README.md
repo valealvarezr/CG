@@ -42,7 +42,9 @@ https://github.com/user-attachments/assets/b0df7498-75de-4c50-b23f-55d46c58d9a1
 
 ### Video
 
-https://github.com/user-attachments/assets/7921009c-7814-4c96-833c-5a58d58296b8
+
+
+https://github.com/user-attachments/assets/fc3c690f-2643-4fc5-8ec8-6760baed54f8
 
 
 ## Shader 6: Coordenadas UV procedurales
