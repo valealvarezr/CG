@@ -36,17 +36,17 @@ Captura Árbol de nodos
 GIF 
 
 ## Shader 8: Movimiento de Humo
-# Jeronimo Correa H.
+### Jeronimo Correa H.
 Captura Árbol de nodos
 GIF
 
 ## Shader 9: Matcap
-# Jeronimo Correa H.
+### Jeronimo Correa H.
 Captura Árbol de nodos
 GIF 
 
 ## Shader 10: Intersección con ruido
-# Jeronimo Correa H.
+### Jeronimo Correa H.
 Captura Árbol de nodos
 GIF 
 
