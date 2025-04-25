@@ -17,6 +17,7 @@ https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
 
 
 ## Shader 2: Máscara Radial
+## Santiago Gómez
 ### Captura Árbol de nodos
 ![image](https://github.com/user-attachments/assets/2cbee76d-129e-4736-b6e7-3b788ed31c1c)
 
@@ -28,6 +29,7 @@ https://github.com/user-attachments/assets/b7ab3bfe-e889-475d-8b86-b696284bb5f7
 
 
 ## Shader 4: Erosión
+## Santiago Gómez
 ### Captura Árbol de nodos
 ![image](https://github.com/user-attachments/assets/10735c95-22f9-4257-bb5d-0f9fe73f4860)
 
@@ -39,6 +41,7 @@ https://github.com/user-attachments/assets/b7ab3bfe-e889-475d-8b86-b696284bb5f7
 https://github.com/user-attachments/assets/b0df7498-75de-4c50-b23f-55d46c58d9a1
 
 ## Shader 5: Disolver Textura
+## Santiago Gómez
 ### Captura Árbol de nodos
 ![image](https://github.com/user-attachments/assets/1a5389e8-6d7d-449d-ab25-f9ba09ad09bd)
 
