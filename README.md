@@ -70,7 +70,11 @@ https://github.com/user-attachments/assets/68e95977-8526-406d-b709-d5c61032ac9b
 ### Captura Árbol de nodos
 ![Screenshot 2025-04-25 014723](https://github.com/user-attachments/assets/fdc3e030-5434-4f5a-a3c1-e8ff2b9ad206)
 
-Video
+### Video
+
+https://github.com/user-attachments/assets/da88566a-5405-4588-9c2b-2398ef2c1648
+
+
 
 ## Shader 10: Intersección con ruido
 ### Jeronimo Correa H.
