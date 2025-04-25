@@ -9,7 +9,11 @@
 
 ## Shader 1: Textura de Máscara Multicanal
 ### Captura Árbol de nodos
+![TetraedroMascara](https://github.com/user-attachments/assets/7e6e9c56-c553-4480-9f0d-ba3f368f05c7)
+
 ### Video
+https://github.com/user-attachments/assets/223141e3-3a94-4dd0-9d11-40cc835e971a
+
 
 ## Shader 2: Máscara Radial
 ### Captura Árbol de nodos
@@ -28,12 +32,24 @@
 ### Video
 
 ## Shader 6: Coordenadas UV procedurales
-Captura Árbol de nodos
-Video
+### Captura Árbol de nodos
+![Polares](https://github.com/user-attachments/assets/5c2cb849-8f9f-4251-bc19-b3aac2f10509)
+
+### Video
+
+
+https://github.com/user-attachments/assets/68e95977-8526-406d-b709-d5c61032ac9b
+
+
 
 ## Shader 7: Textura en Espejo
 ### Captura Árbol de nodos
+![Tiling](https://github.com/user-attachments/assets/609f9b51-4790-4004-a099-6a494030c0ac)
+
 ### Video
+
+https://github.com/user-attachments/assets/d2ae5a45-a132-4799-b708-1b6408b6c965
+
 
 ## Shader 8: Movimiento de Humo
 ### Jeronimo Correa H.
