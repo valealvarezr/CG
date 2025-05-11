@@ -55,6 +55,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AtenuacionCubeMap: 1
     - _BlinnPhongActivo: 1
     - _BlinnPhongPower: 286
     - _CubeMapFresnelPower: 0
@@ -64,7 +65,7 @@ Material:
     - _Metalic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 1
+    - _Smoothness: 0
     m_Colors:
     - _DisplacementVelocity: {r: 0.4, g: 0.2, b: 0, a: 0}
   m_BuildTextureStacks: []
