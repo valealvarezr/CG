@@ -9,15 +9,7 @@
 
 ## Shader Agua
 
-
-
-
-
-https://github.com/user-attachments/assets/91d5d82b-26a2-4910-9bb5-1e178a47f01c
-
-
-
-
+![Sample](https://github.com/user-attachments/assets/91d5d82b-26a2-4910-9bb5-1e178a47f01c)
   
 # Ejercicio 3 Shaders
 
