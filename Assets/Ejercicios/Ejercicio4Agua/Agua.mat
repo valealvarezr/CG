@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2372211987625567020
+--- !u!114 &-5737575091614105353
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -21,13 +21,15 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Agua
-  m_Shader: {fileID: -6465566751694194690, guid: 13011a68495484a4e86c2d14305c4342,
+  m_Shader: {fileID: -6465566751694194690, guid: 3f2da51df2021e947897a1e125cad29f,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords: []
-  m_LightmapFlags: 2
+  m_InvalidKeywords:
+  - _ALPHAPREMULTIPLY_ON
+  - _SURFACE_TYPE_TRANSPARENT
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -37,8 +39,24 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _HDRI:
-        m_Texture: {fileID: 8900000, guid: 94a4c0ba721e41945baba9a2037eef0b, type: 3}
+    - _CubemapAsset_e626818d0a1b4595988c9a3e68825aa6_Out_0_Cubemap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamNormal:
+        m_Texture: {fileID: 2800000, guid: 06f167c627856564782b5dbf9e4a9d0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 2019f21628b5b1c44ba3a14db99f6d28, type: 3}
+        m_Scale: {x: 0, y: 0}
+        m_Offset: {x: 0, y: 0}
+    - _RefractionNormals:
+        m_Texture: {fileID: 2800000, guid: 40838467945d4064081aeb0622086dd1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleReflectedCubemap_e6b3959c308b47f2a82b86e27fcaa6a7_Cube_1_Cubemap:
+        m_Texture: {fileID: 8900000, guid: 128be305eddaedd418760ceb631490e1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -55,17 +73,54 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AtenuacionCubeMap: 1
-    - _BlinnPhongActivo: 1
-    - _BlinnPhongPower: 286
-    - _CubeMapFresnelPower: 0
-    - _CubeMapMix: 1
-    - _DisplacementIntensity: 0.727
-    - _DisplacementScale: 3
-    - _Metalic: 0
+    - _AlphaClip: 1
+    - _AlphaToMask: 0
+    - _Blend: 0
+    - _BlendModePreserveSpecular: 1
+    - _CastShadows: 1
+    - _Cull: 2
+    - _Depth: 0.25
+    - _DepthFadeStrength: -0.52
+    - _DisplacementAmount: 1.3
+    - _DisplacementINtencity: 0.73
+    - _DisplacementVelocity: 0.1
+    - _Distance: 0.81
+    - _DstBlend: 10
+    - _FoamAmount: 29.1
+    - _FoamCutoff: 109.64
+    - _FoamScale: 2.68
+    - _FoamSpeed: 0.94
+    - _FogDensity: 3.17
+    - _NormalStrength: 0.75
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Smoothness: 0
+    - _ReceiveShadows: 1
+    - _RefractionSpeed: 0.03
+    - _RefractionStrength: 2
+    - _Smoothenes: 0.52
+    - _SrcBlend: 1
+    - _Surface: 1
+    - _WaterLerp: 0.236
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    - _normalStrength: 0.67
     m_Colors:
-    - _DisplacementVelocity: {r: 0.4, g: 0.2, b: 0, a: 0}
+    - _AguasPocoProfundas: {r: 0.1394873, g: 0.3716108, b: 0.5169811, a: 1}
+    - _AguasProfundas: {r: 0.08627451, g: 0.20392159, b: 0.3372549, a: 1}
+    - _Amount: {r: 0, g: 0, b: 0, a: 0}
+    - _BaseColor: {r: 0.2977144, g: 0.6843394, b: 0.762264, a: 0}
+    - _Color: {r: 0.23382697, g: 0.40692213, b: 0.4641509, a: 0}
+    - _ColorNeblina: {r: 0, g: 0, b: 0, a: 1}
+    - _DIsplacementTiling: {r: 0.47, g: 0.3, b: 0, a: 0}
+    - _DeepColor: {r: 0.24485096, g: 0.2028302, b: 1, a: 0.41960785}
+    - _DipsplacementVelocity: {r: 0.1, g: 0.08, b: 0, a: 0}
+    - _FoamColor: {r: 1, g: 0.95586586, b: 0.7783019, a: 0.79607844}
+    - _RefractionScale: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _SurfaceColor: {r: 0.83046913, g: 0.5607843, b: 1, a: 0.6862745}
+    - _UV1: {r: 4, g: 4, b: -0.3, a: 0.3}
+    - _UV2: {r: 5, g: 5, b: 0, a: 0}
+    - _WaterSpeed: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _WaterSpeed2: {r: -0.1, g: 0.1, b: 0, a: 0}
   m_BuildTextureStacks: []
