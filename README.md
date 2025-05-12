@@ -5,36 +5,16 @@
 - Tobit Santiago Gomez
 - Jeronimo Correa
 
-- # Ejercicio 4 Shaders
+- # Ejercicio 4 Shaders de superficie
 
-## Displacement
-
-### Shader:
-![Dispacement](https://github.com/user-attachments/assets/bd4274de-f12c-4889-8bd1-c0eace5be418)
-
-### Video:
-https://github.com/user-attachments/assets/9ab5e343-4004-41da-9d03-38f99390fe04
+## Shader Agua
 
 
 
-## Cubemap Reflection
-
-### Shader:
-![CubeMap Reflection](https://github.com/user-attachments/assets/947b781d-5bd1-492a-81d9-7d715a3074c8)
-
-### Video:
-https://github.com/user-attachments/assets/fddfaee9-40d7-42d4-9acd-dd09f21848ff
 
 
+https://github.com/user-attachments/assets/91d5d82b-26a2-4910-9bb5-1e178a47f01c
 
-## Blinn-Phong
-
-### Shader:
-![BlinnPhong](https://github.com/user-attachments/assets/01cd8ba2-1c99-487e-a354-d547f8c340b3)
-
-
-### Video:
-https://github.com/user-attachments/assets/fd91436f-7298-4768-841d-982c57b4bda3
 
 
 
