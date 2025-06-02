@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 using UnityEngine.VFX;
 
 public class PowerUpTest : MonoBehaviour
@@ -8,21 +9,28 @@ public class PowerUpTest : MonoBehaviour
     public Animator anim;
     public VisualEffect levelUp;
     private bool levelingUp;
+    public PlayableDirector director;
+    public PlayableAsset efecto, quitarEfecto;
 
-    void Update()
+    public void OnEfectoVale()
     {
+        director.playableAsset = efecto;
+        director.Play();
+    }
+
+    public void OnEfectoJeronimoYSantiago()
+    {
+        director.playableAsset = quitarEfecto;
+        director.Evaluate();
         if(anim != null)
         {
-            if (Input.GetButtonDown("Fire1") && !levelingUp)
-            {
-                anim.SetTrigger("PowerUp");
+            anim.SetTrigger("PowerUp");
 
-                if(levelUp !=null)
-                    levelUp.Play();
+            if(levelUp !=null)
+                levelUp.Play();
 
-                levelingUp = true;
-                StartCoroutine(ResetBool(levelingUp, 0.5f)) ;
-            }
+            levelingUp = true;
+            StartCoroutine(ResetBool(levelingUp, 0.5f)) ;
         }
     }
 
