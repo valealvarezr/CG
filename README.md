@@ -6,6 +6,10 @@
 - Jeronimo Correa
 
   - # Final
+
+https://github.com/user-attachments/assets/1f827141-70c3-464b-a72a-b036d0e0fe6c
+
+
  
     Link itch.io: https://valerinacapuchina.itch.io/finalcg
 
