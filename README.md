@@ -5,6 +5,10 @@
 - Tobit Santiago Gomez
 - Jeronimo Correa
 
+  - # Final
+ 
+    Link itch.io: https://valerinacapuchina.itch.io/finalcg
+
 - # Ejercicio 4 Shaders de superficie
 
 ## Shader Agua
